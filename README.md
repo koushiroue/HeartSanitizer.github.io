@@ -1,2 +1,0 @@
-# koushiroue.github.io
-test
