@@ -1,6 +1,10 @@
-# Note >XV ~ Pastel Parallelia
-a pretty much a poc of mah '''interactable 'note' series program'''. 
-so dunt expect any new stuff that i reserving it for the better.
+# Note XV ~ Pastel Parallelia
+a pretty much a poc of my '''interactable 'note' series program'''. 
+dunt expect any new stuff that i reserving it for the better.
 
-while your at it, dunt do anything crazy to this clealy-personal repo
-that i worked on for personal purpose. :^)
+"let's try some stuff shall we?"
+
+
+
+
+2019
