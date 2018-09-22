@@ -4,7 +4,4 @@ dunt expect any new stuff that i reserving it for the better.
 
 "let's try some stuff shall we?"
 
-
-
-
 2019
